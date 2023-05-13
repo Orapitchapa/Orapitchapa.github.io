@@ -1,0 +1,33 @@
+/* text of header */
+.small-text {
+    font-size: 12px;
+}
+
+/* header color */
+.bgcolor {
+    background-color: rgb(177, 245, 248);
+}
+.style-link {
+    text-decoration: none;
+    color: black;
+}
+
+.pic_logo {
+    width: 60px;
+}
+
+/* Cart style */
+.cart-icon {
+    position: relative;
+    display: inline-block;
+}
+
+.badge {
+    position: absolute;
+    top: -11px;
+    right: -10px;
+    border-radius: 40%;
+    padding: 1px 4px;
+    font-size: 10px;
+}
+
