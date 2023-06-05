@@ -7,6 +7,7 @@
 .bgcolor {
     background-color: rgb(177, 245, 248);
 }
+
 .style-link {
     text-decoration: none;
     color: black;
@@ -34,4 +35,10 @@
 .frame_W {
     width: 90px;
     margin: 2px;
+}
+
+@media (max-width: 425px) {
+    .hide{
+        display: none
+    }
 }
